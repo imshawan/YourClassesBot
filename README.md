@@ -14,7 +14,7 @@ from datetime import datetime
 
 ## Add your timetable
 You need to add your timetable to the file named "my_timings.py"
-<img src="src/timings.png">
+<img src="src/timings.PNG">
 
 ## Usage
 
