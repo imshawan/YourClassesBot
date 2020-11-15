@@ -29,6 +29,8 @@ chat_id = "Chat ID" # Alert RECEIVER's Chat ID
 ```
 And you're good to go! You can also deploy your script to cloud and get alerts forever.
 
+<img src="src/YourClassesBot.PNG">
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
