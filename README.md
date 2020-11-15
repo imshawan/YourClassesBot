@@ -1,6 +1,6 @@
 # YourClassesBot
 
-**YourClassesBot** is a Python Automation Script that can access your timetable from a file named "my_timetable.py" and send you text alert on telegram about your classes. This can be real handy, if you don't wanna check your timetables daily.
+**YourClassesBot** is a Python Automation Script that can access your timetable from a file named "my_timeings.py" and send you text alert on telegram about your classes. This can be real handy, if you don't wanna check your timetables daily.
 
 ## Required Packages
 
